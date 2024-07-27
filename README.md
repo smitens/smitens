@@ -1,6 +1,6 @@
 # Hi there, I'm Zane! 👋
 
-Welcome to my GitHub profile! I'm a passionate PHP developer with a knack for creating innovative solutions and improving everyday tech. I have a diverse background in marketing and process automation, which brings a unique perspective to my development work.
+Welcome to my GitHub profile! I’m a dedicated PHP developer with a focus on finding practical solutions and enhancing everyday technology. My background in marketing and process automation gives me a diverse perspective on development challenges.
 
 ## 🛠️ Skills and Technologies
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate PHP developer with a knack for cr
 
 ## 🌟 Background
 
-With a background in marketing and process automation, I bring a unique blend of technical and strategic insights to my projects. My journey into tech was fueled by a desire to harness the power of technology to solve real-world problems.
+With a background in marketing, communication and process automation, I bring a unique blend of technical and strategic insights to my projects. My journey into tech was driven by a desire to continuously learn and stay engaged with new ideas, keeping my mind curious and fresh.
 
 ## 🚀 Passion
 
@@ -22,7 +22,7 @@ I'm passionate about leveraging technology to create innovative solutions that e
 
 ## 🔥 Projects
 
-- [**Banking App (IN PROGRESS):**](https://github.com/yourusername/project1): Created a banking app with PHP and Laravel, using SQLite for account and transaction management. Integrated third-party APIs for currency conversion and cryptocurrency data.
+- [**Banking App (IN PROGRESS):**](https://github.com/smitens/BANKINGAPP): Created a banking app with PHP and Laravel, using SQLite for account and transaction management. Integrated third-party APIs for currency conversion and cryptocurrency data.
 - [**Article App:**](https://github.com/smitens/ARTICLESAPP): Built a web app for article management with PHP MVC, featuring article CRUD operations and user interactions (comments and likes). Utilized SQLite for data storage and designed a simple, user-friendly interface.
 - [**Crypto App:**](https://github.com/smitens/CRYPTOAPP):  PHP web app for managing and trading cryptocurrencies with virtual money. Users can track top coins, search by ticker, buy/sell crypto, and view wallet status and transaction history. Data is sourced from CoinMarketCap, CoinPaprika, and CoinGecko APIs, with all details stored in an SQLite database.
 
